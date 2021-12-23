@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <style>
         body {
             background-color:  #2f3437; <!-- set this value to match your background color (#2f3437 is the default "dark" theme color) -->
